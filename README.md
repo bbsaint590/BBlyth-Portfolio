@@ -1,10 +1,10 @@
-# Updated Portfolio Website
+# Portfolio Website
 
 This project is a web application built using HTML, CSS, and JavaScript.
 
 ## Description
 
-This web application is designed to serve as a portolio of other projects. It includes interactive features and a responsive design to provide a seamless user experience.
+This web application is designed to serve as a portfolio of other projects. It includes interactive features and a responsive design to provide a seamless user experience.
 
 ## Getting Started
 
@@ -19,13 +19,13 @@ To get started, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git@github.com:bbsaint590/BBlyth-Portfolio.git
+    git clone git@github.com:bbsaint590/BBlyth-Portfolio.git
     ```
 
 2. **Navigate into the project directory:**
 
     ```bash
-    cd BBlyth
+    cd BBlyth-Portfolio
     ```
 
 3. **Open the project in your web browser:**
@@ -38,8 +38,10 @@ To get started, follow these steps:
 
 ## Links
 
-- Live: https://bbsaint590.github.io/BBlyth-Portfolio/ 
-
-- GitHub Repo: [https://github.com/bbsaint590/project1](https://github.com/bbsaint590/BBlyth-Portfolio)
+- Live: [https://bbsaint590.github.io/BBlyth-Portfolio/](https://bbsaint590.github.io/BBlyth-Portfolio/)
+- GitHub Repo: [https://github.com/bbsaint590/BBlyth-Portfolio](https://github.com/bbsaint590/BBlyth-Portfolio)
 
 ## Acknowledgements
+
+- [GitHub Repository](https://github.com/bbsaint590/BBlyth-Portfolio)
+
